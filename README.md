@@ -41,7 +41,12 @@ Content management platform with SQL-driven dynamic loading and form validation.
 ---
 
 ## 📊 GitHub Stats
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulli23309-ops&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulli23309-ops&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulli23309-ops&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abdulli23309-ops&theme=tokyonight&hide_border=true)
 
 ---
 
